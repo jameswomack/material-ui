@@ -2,7 +2,7 @@
   "name": "material-ui-build-next",
   "private": true,
   "author": "Material-UI Team",
-  "version": "1.0.0-beta.13",
+  "version": "1.0.0-beta.14",
   "description": "Material Design UI components built with React",
   "main": "./src/index.js",
   "keywords": [
@@ -75,7 +75,7 @@
     "react-flow-types": "^0.2.0-beta.2",
     "react-jss": "^7.2.0",
     "react-popper": "^0.7.3",
-    "react-scrollbar-size": "^2.0.1",
+    "react-scrollbar-size": "jameswomack/react-scrollbar-size",
     "react-transition-group": "^2.2.1",
     "recompose": "^0.25.1",
     "scroll": "^2.0.1",
